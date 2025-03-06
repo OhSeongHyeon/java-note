@@ -1,6 +1,6 @@
-package src.algorithms.sort;
+package algorithms.sort;
 
-import src.utilpackage.Utils;
+import utilpackage.Utils;
 
 public class MergeSort {
 

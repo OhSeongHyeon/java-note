@@ -1,4 +1,4 @@
-package src.utilpackage;
+package utilpackage;
 
 public class Utils {
     
